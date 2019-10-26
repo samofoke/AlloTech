@@ -1,3 +1,3 @@
 # AlloTech
 My own website Project
-this is my first site project which i have spend some time on.
+The tools I used are HTML5, CSS3 and bootstrap 4.
